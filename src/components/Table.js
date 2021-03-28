@@ -1,6 +1,10 @@
 import React from 'react';
-import { useTable } from "react-table";
+import { useEffect } from "react-table";
+import {useState } from "react"
+import { useTable,useFilters } from 'react-table'
 import '../style.css';
+import { render } from 'react-dom';
+
 
 
 // class Table extends React.Component {
@@ -82,21 +86,71 @@ export default function Table({ columns, data }) {
 	
 	// Use the useTable Hook to send the columns and data to build the table
 	const {
-	  getTableProps, // table props from react-table
-	  getTableBodyProps, // table body props from react-table
-	  headerGroups, // headerGroups, if your table has groupings
-	  rows, // rows for the table based on the data passed
-	  prepareRow // Prepare the row (this function needs to be called for each row before getting the row props)
-	} = useTable({
-	  columns,
-	  data
-	});
-  
+		getTableProps,
+		getTableBodyProps,
+		headerGroups,
+		rows,
+		prepareRow,
+		setFilter // The useFilter Hook provides a way to set the filter
+	  } = useTable(
+		{
+		  columns,
+		  data
+		},
+		useFilters // Adding the useFilters Hook to the table
+		// You can add as many Hooks as you want. Check the documentation for details. You can even add custom Hooks for react-table here
+	  );
+
+	// Create a state
+	const [filterInput, setFilterInput] = useState(0);
+
+	// Update the state when input changes
+	const handleFilterChange = e => {
+		const value = e.target.value || undefined;
+		setFilter("name", value); // Update the show.name filter. Now our table will filter and show only the rows which have a matching value
+		setFilterInput(value);
+	  };
+	  const handleFilterChange1 = e => {
+		const value = e.target.value || undefined;
+		setFilter("formatted_address", value); // Update the show.name filter. Now our table will filter and show only the rows which have a matching value
+		setFilterInput(value);
+	  };
+
+
+	
 	/* 
 	  Render the UI for your table
 	  - react-table doesn't have UI, it's headless. We just need to put the react-table props from the Hooks, and it will do its magic automatically
 	*/
+
 	return (
+	
+		<div>
+		 <h2 className = "heading"> Friends of Green</h2>
+		 <span>
+		<label>
+			Search by name:
+			<input
+	  	value={filterInput}
+	  	onChange={handleFilterChange}
+	  	placeholder="Search by name"
+		/> 
+		</label>
+		 
+		 </span>
+		 <span>
+		<label>
+			Search by Address:
+			<input
+	  	value={filterInput}
+	  	onChange={handleFilterChange1}
+	  	placeholder="Search by name"
+		/> 
+		<i className="fa fa-search search-icon" aria-hidden="true"/>
+		</label>
+		 
+		 </span>
+		
 	  <table className="tablecss" {...getTableProps()}>
 		<thead className="thead">
 		  {headerGroups.map(headerGroup => (
@@ -120,5 +174,6 @@ export default function Table({ columns, data }) {
 		  })}
 		</tbody>
 	  </table>
+	  </div>
 	);
   }

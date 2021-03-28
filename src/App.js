@@ -46,37 +46,33 @@ function App() {
 			columns: [
 			  {
 				Header: "Name",
-				accessor: "name",
-				style: {
-					width: '55%'
-					}
+				accessor: "name"
+
 			  },
 			  {
 				Header: "Address",
-				accessor: "formatted_address",
-				style: {
-					width: '35%'
-					}
+				accessor: "formatted_address"
 			  },
 			  {
 				Header: "Contact Information",
-				accessor: "placeJson.result.international_phone_number",
+				accessor: "placeJson.result.international_phone_number"
 
 			  },
 			  {
 				Header: "Location",
-				accessor: "placeJson.result.url",
+				accessor: "placeJson.result.url"
 
 			  },
-			  {
-				Header: "Website",
-				accessor: "placeJson.result.website",
 
-			  },
 			  {
 				Header: "Type",
 				accessor: "types",
 				Cell: ({ cell: { value } }) => <Types values={value} />
+			  },
+			  {
+				Header: "Website",
+				accessor: "placeJson.result.website"
+
 			  }
 			]
 		  }
