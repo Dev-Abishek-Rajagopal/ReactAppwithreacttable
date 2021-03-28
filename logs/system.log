@@ -1,0 +1,388 @@
+INFO 2021-03-27 03:57:17,923 autoreload 20720 9720 Watching for file changes with StatReloader
+INFO 2021-03-27 04:14:36,563 autoreload 20720 9720 S:\FriendofGreen\FoG\FoG\settings.py changed, reloading.
+INFO 2021-03-27 04:16:31,653 autoreload 17120 23596 Watching for file changes with StatReloader
+INFO 2021-03-27 04:18:12,312 autoreload 17120 23596 S:\FriendofGreen\FoG\FoG\urls.py changed, reloading.
+INFO 2021-03-27 04:18:13,226 autoreload 8120 11900 Watching for file changes with StatReloader
+INFO 2021-03-27 04:18:41,903 autoreload 26544 27412 Watching for file changes with StatReloader
+INFO 2021-03-27 04:19:07,150 autoreload 26544 27412 S:\FriendofGreen\FoG\FoGApp\urls.py changed, reloading.
+INFO 2021-03-27 04:19:07,606 autoreload 22776 20004 Watching for file changes with StatReloader
+INFO 2021-03-27 04:20:56,890 autoreload 22776 20004 S:\FriendofGreen\FoG\FoGApp\urls.py changed, reloading.
+INFO 2021-03-27 04:20:57,590 autoreload 26000 15184 Watching for file changes with StatReloader
+INFO 2021-03-27 04:21:17,405 autoreload 26000 15184 S:\FriendofGreen\FoG\FoGApp\serializers\serializers.py changed, reloading.
+INFO 2021-03-27 04:21:17,865 autoreload 16532 19236 Watching for file changes with StatReloader
+INFO 2021-03-27 04:22:45,729 basehttp 16532 10612 "POST /fog/create_owner/%0A HTTP/1.1" 200 12
+INFO 2021-03-27 04:27:54,462 autoreload 16532 19236 S:\FriendofGreen\FoG\FoGApp\models.py changed, reloading.
+INFO 2021-03-27 04:27:55,396 autoreload 10860 11112 Watching for file changes with StatReloader
+INFO 2021-03-27 04:28:30,050 autoreload 27624 22684 Watching for file changes with StatReloader
+INFO 2021-03-27 04:28:54,814 basehttp 27624 11996 "POST /fog/create_owner/%0A HTTP/1.1" 200 425
+INFO 2021-03-27 04:29:29,735 basehttp 27624 3576 "GET /admin/FoGApp/ HTTP/1.1" 302 0
+INFO 2021-03-27 04:29:29,761 basehttp 27624 3576 "GET /admin/login/?next=/admin/FoGApp/ HTTP/1.1" 200 1927
+INFO 2021-03-27 04:29:30,070 basehttp 27624 3576 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2021-03-27 04:29:30,071 basehttp 27624 19136 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+INFO 2021-03-27 04:29:30,071 basehttp 27624 25452 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2021-03-27 04:29:30,075 basehttp 27624 19136 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-03-27 04:29:30,095 basehttp 27624 19136 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-03-27 04:29:30,095 basehttp 27624 25452 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2021-03-27 04:29:41,834 basehttp 27624 19136 "POST /admin/login/?next=/admin/FoGApp/ HTTP/1.1" 302 0
+INFO 2021-03-27 04:29:42,263 basehttp 27624 19136 "GET /admin/FoGApp/ HTTP/1.1" 200 2943
+INFO 2021-03-27 04:29:42,279 basehttp 27624 19136 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2021-03-27 04:29:42,283 basehttp 27624 19136 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2021-03-27 04:29:42,283 basehttp 27624 25452 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2021-03-27 04:29:42,292 basehttp 27624 25452 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-03-27 04:29:49,647 basehttp 27624 25452 "GET /admin/FoGApp/green_owner/ HTTP/1.1" 200 4408
+INFO 2021-03-27 04:29:49,666 basehttp 27624 25452 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+INFO 2021-03-27 04:29:49,668 basehttp 27624 7196 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2021-03-27 04:29:49,668 basehttp 27624 11864 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+INFO 2021-03-27 04:29:49,669 basehttp 27624 23396 "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+INFO 2021-03-27 04:29:49,670 basehttp 27624 25452 "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+INFO 2021-03-27 04:29:49,672 basehttp 27624 7196 "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+INFO 2021-03-27 04:29:49,672 basehttp 27624 11864 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+INFO 2021-03-27 04:29:49,673 basehttp 27624 23396 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+INFO 2021-03-27 04:29:49,673 basehttp 27624 3576 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 280364
+INFO 2021-03-27 04:29:50,129 basehttp 27624 19136 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:29:50,150 basehttp 27624 19136 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2021-03-27 04:29:51,581 basehttp 27624 19136 "GET /admin/FoGApp/green_owner/1/change/ HTTP/1.1" 200 13398
+INFO 2021-03-27 04:29:51,599 basehttp 27624 19136 "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+INFO 2021-03-27 04:29:51,602 basehttp 27624 19136 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2021-03-27 04:29:51,602 basehttp 27624 23396 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10322
+INFO 2021-03-27 04:29:51,605 basehttp 27624 23396 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2021-03-27 04:29:52,047 basehttp 27624 3576 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:29:58,087 basehttp 27624 3576 "GET /admin/FoGApp/green_owner/ HTTP/1.1" 200 4408
+INFO 2021-03-27 04:29:58,598 basehttp 27624 3576 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:30:03,833 basehttp 27624 3576 "POST /admin/FoGApp/green_owner/ HTTP/1.1" 200 3392
+INFO 2021-03-27 04:30:03,847 basehttp 27624 3576 "GET /static/admin/js/cancel.js HTTP/1.1" 200 409
+INFO 2021-03-27 04:30:05,365 basehttp 27624 3576 "POST /admin/FoGApp/green_owner/ HTTP/1.1" 302 0
+INFO 2021-03-27 04:30:05,903 basehttp 27624 3576 "GET /admin/FoGApp/green_owner/ HTTP/1.1" 200 3342
+INFO 2021-03-27 04:30:06,371 basehttp 27624 3576 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:30:06,384 basehttp 27624 3576 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2021-03-27 04:30:07,408 basehttp 27624 3576 "GET /admin/FoGApp/ HTTP/1.1" 200 2943
+INFO 2021-03-27 04:30:08,655 basehttp 27624 3576 "GET /admin/ HTTP/1.1" 200 4519
+INFO 2021-03-27 04:30:08,669 basehttp 27624 3576 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2021-03-27 04:30:09,634 basehttp 27624 3576 "GET /admin/auth/user/ HTTP/1.1" 200 7033
+INFO 2021-03-27 04:30:09,650 basehttp 27624 23396 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2021-03-27 04:30:09,652 basehttp 27624 23396 "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2021-03-27 04:30:10,113 basehttp 27624 3576 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:30:10,126 basehttp 27624 3576 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2021-03-27 04:30:14,119 basehttp 27624 3576 "POST /admin/auth/user/ HTTP/1.1" 200 3344
+INFO 2021-03-27 04:30:15,289 basehttp 27624 3576 "POST /admin/auth/user/ HTTP/1.1" 302 0
+INFO 2021-03-27 04:30:15,784 basehttp 27624 3576 "GET /admin/auth/user/ HTTP/1.1" 200 6730
+INFO 2021-03-27 04:30:16,276 basehttp 27624 3576 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:30:34,522 basehttp 27624 11996 "POST /fog/create_owner/%0A HTTP/1.1" 200 431
+INFO 2021-03-27 04:32:00,652 autoreload 27624 22684 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:32:01,154 autoreload 5928 4612 Watching for file changes with StatReloader
+INFO 2021-03-27 04:33:51,892 autoreload 5928 4612 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:33:52,732 autoreload 19716 5964 Watching for file changes with StatReloader
+INFO 2021-03-27 04:34:25,414 basehttp 19716 19512 "POST /fog/create_owner/%0A HTTP/1.1" 200 432
+INFO 2021-03-27 04:37:38,192 autoreload 19716 5964 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:37:38,652 autoreload 21768 18720 Watching for file changes with StatReloader
+INFO 2021-03-27 04:37:45,818 basehttp 21768 17560 "GET /admin/auth/user/ HTTP/1.1" 200 7468
+INFO 2021-03-27 04:37:45,859 basehttp 21768 17560 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:37:49,692 basehttp 21768 17560 "POST /admin/auth/user/ HTTP/1.1" 200 3739
+INFO 2021-03-27 04:37:50,739 basehttp 21768 17560 "POST /admin/auth/user/ HTTP/1.1" 302 0
+INFO 2021-03-27 04:37:51,230 basehttp 21768 17560 "GET /admin/auth/user/ HTTP/1.1" 200 6731
+INFO 2021-03-27 04:37:51,710 basehttp 21768 17560 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:37:53,766 basehttp 21768 17560 "GET /admin/ HTTP/1.1" 200 5249
+INFO 2021-03-27 04:37:55,229 basehttp 21768 17560 "GET /admin/FoGApp/green_owner/ HTTP/1.1" 200 3214
+INFO 2021-03-27 04:37:55,715 basehttp 21768 17560 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:38:31,851 basehttp 21768 14564 "POST /fog/create_owner/%0A HTTP/1.1" 200 431
+INFO 2021-03-27 04:39:37,094 autoreload 21768 18720 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:39:37,553 autoreload 24880 9444 Watching for file changes with StatReloader
+INFO 2021-03-27 04:39:41,488 basehttp 24880 1900 "GET /admin/ HTTP/1.1" 200 5249
+INFO 2021-03-27 04:39:42,832 basehttp 24880 1900 "GET /admin/auth/user/ HTTP/1.1" 200 7039
+INFO 2021-03-27 04:39:43,316 basehttp 24880 1900 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:39:46,551 basehttp 24880 1900 "POST /admin/auth/user/ HTTP/1.1" 200 3492
+INFO 2021-03-27 04:39:47,623 basehttp 24880 1900 "POST /admin/auth/user/ HTTP/1.1" 302 0
+INFO 2021-03-27 04:39:48,100 basehttp 24880 1900 "GET /admin/auth/user/ HTTP/1.1" 200 6730
+INFO 2021-03-27 04:39:48,576 basehttp 24880 1900 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:39:51,981 basehttp 24880 19236 "POST /fog/create_owner/%0A HTTP/1.1" 200 431
+INFO 2021-03-27 04:40:40,296 autoreload 24880 9444 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:40:40,781 autoreload 10196 5776 Watching for file changes with StatReloader
+INFO 2021-03-27 04:40:55,250 autoreload 10196 5776 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:40:56,144 autoreload 14720 15632 Watching for file changes with StatReloader
+INFO 2021-03-27 04:41:04,173 basehttp 14720 3416 "GET /admin/auth/user/ HTTP/1.1" 200 7039
+INFO 2021-03-27 04:41:04,386 basehttp 14720 3416 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:41:07,639 basehttp 14720 3416 "POST /admin/auth/user/ HTTP/1.1" 200 3492
+INFO 2021-03-27 04:41:08,511 basehttp 14720 3416 "POST /admin/auth/user/ HTTP/1.1" 302 0
+INFO 2021-03-27 04:41:08,979 basehttp 14720 3416 "GET /admin/auth/user/ HTTP/1.1" 200 6730
+INFO 2021-03-27 04:41:09,468 basehttp 14720 3416 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:41:14,791 basehttp 14720 11104 "POST /fog/create_owner/%0A HTTP/1.1" 200 431
+INFO 2021-03-27 04:42:48,241 autoreload 14720 15632 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:42:48,704 autoreload 19944 24232 Watching for file changes with StatReloader
+INFO 2021-03-27 04:43:31,516 autoreload 19944 24232 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 04:43:32,299 autoreload 9344 4112 Watching for file changes with StatReloader
+INFO 2021-03-27 04:43:34,149 basehttp 9344 8444 "GET /admin/auth/user/ HTTP/1.1" 200 7039
+INFO 2021-03-27 04:43:34,163 basehttp 9344 8444 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,165 basehttp 9344 19512 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,172 basehttp 9344 22484 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,172 basehttp 9344 19512 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,172 basehttp 9344 15064 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,174 basehttp 9344 19264 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,176 basehttp 9344 22484 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,176 basehttp 9344 11060 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,176 basehttp 9344 19512 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,177 basehttp 9344 15064 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,177 basehttp 9344 19264 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,178 basehttp 9344 22484 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,181 basehttp 9344 22484 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,184 basehttp 9344 22484 "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,187 basehttp 9344 22484 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,431 basehttp 9344 8444 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 04:43:34,448 basehttp 9344 8444 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,448 basehttp 9344 19512 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,448 basehttp 9344 22484 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,448 basehttp 9344 19264 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:43:34,449 basehttp 9344 15064 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2021-03-27 04:48:44,217 autoreload 9344 4112 S:\FriendofGreen\FoG\FoGApp\urls.py changed, reloading.
+INFO 2021-03-27 04:48:44,717 autoreload 7236 24536 Watching for file changes with StatReloader
+INFO 2021-03-27 04:53:42,098 autoreload 7236 24536 S:\FriendofGreen\FoG\FoGApp\models.py changed, reloading.
+INFO 2021-03-27 04:53:42,912 autoreload 5196 26068 Watching for file changes with StatReloader
+INFO 2021-03-27 04:53:53,152 autoreload 14656 9168 Watching for file changes with StatReloader
+INFO 2021-03-27 04:54:04,877 basehttp 14656 2396 "GET /admin/ HTTP/1.1" 200 5735
+INFO 2021-03-27 04:54:04,889 basehttp 14656 2396 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2021-03-27 04:54:04,893 basehttp 14656 2396 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:54:04,895 basehttp 14656 5300 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:54:04,895 basehttp 14656 20208 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2021-03-27 04:54:07,426 basehttp 14656 20208 "GET /admin/FoGApp/green_owner/ HTTP/1.1" 200 4408
+INFO 2021-03-27 04:54:07,914 basehttp 14656 20208 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+WARNING 2021-03-27 04:55:05,581 log 14656 18636 Method Not Allowed: /fog/create_business/
+
+WARNING 2021-03-27 04:55:05,581 basehttp 14656 18636 "GET /fog/create_business/%0A HTTP/1.1" 405 40
+INFO 2021-03-27 04:55:09,820 basehttp 14656 18636 "POST /fog/create_business/%0A HTTP/1.1" 200 38
+INFO 2021-03-27 04:56:31,011 autoreload 14656 9168 S:\FriendofGreen\FoG\FoGApp\views\views.py changed, reloading.
+INFO 2021-03-27 04:56:31,483 autoreload 25092 12532 Watching for file changes with StatReloader
+INFO 2021-03-27 04:57:28,536 autoreload 25092 12532 S:\FriendofGreen\FoG\FoGApp\views\views.py changed, reloading.
+INFO 2021-03-27 04:57:29,508 autoreload 22924 1640 Watching for file changes with StatReloader
+INFO 2021-03-27 04:57:30,591 basehttp 22924 21676 "POST /fog/create_business/%0A HTTP/1.1" 200 252
+INFO 2021-03-27 04:57:57,057 autoreload 22924 1640 S:\FriendofGreen\FoG\FoGApp\views\views.py changed, reloading.
+INFO 2021-03-27 04:57:57,516 autoreload 1328 27376 Watching for file changes with StatReloader
+INFO 2021-03-27 04:57:59,349 basehttp 1328 736 "POST /fog/create_business/%0A HTTP/1.1" 200 49
+INFO 2021-03-27 04:58:22,912 autoreload 1328 27376 S:\FriendofGreen\FoG\FoGApp\views\views.py changed, reloading.
+INFO 2021-03-27 04:58:23,676 autoreload 19520 14872 Watching for file changes with StatReloader
+INFO 2021-03-27 04:58:25,789 basehttp 19520 15376 "POST /fog/create_business/%0A HTTP/1.1" 200 42
+INFO 2021-03-27 04:59:50,093 autoreload 19520 14872 S:\FriendofGreen\FoG\FoGApp\views\views.py changed, reloading.
+INFO 2021-03-27 04:59:50,552 autoreload 16336 21016 Watching for file changes with StatReloader
+INFO 2021-03-27 04:59:52,277 basehttp 16336 22676 "POST /fog/create_business/%0A HTTP/1.1" 200 61
+INFO 2021-03-27 05:00:11,823 basehttp 16336 25412 "GET /admin/FoGApp/ HTTP/1.1" 200 2943
+INFO 2021-03-27 05:00:11,836 basehttp 16336 25412 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:11,836 basehttp 16336 20608 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:11,839 basehttp 16336 20608 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:11,846 basehttp 16336 25412 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:11,846 basehttp 16336 20608 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:11,847 basehttp 16336 24488 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,596 basehttp 16336 20608 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 4441
+INFO 2021-03-27 05:00:13,614 basehttp 16336 20608 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,616 basehttp 16336 25412 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,617 basehttp 16336 5288 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,618 basehttp 16336 20608 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,619 basehttp 16336 24120 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,620 basehttp 16336 25412 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,620 basehttp 16336 24420 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,620 basehttp 16336 5288 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:13,621 basehttp 16336 20608 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:14,073 basehttp 16336 24488 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:00:14,087 basehttp 16336 24488 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:15,312 basehttp 16336 24488 "GET /admin/FoGApp/green_business/1/change/ HTTP/1.1" 200 15394
+INFO 2021-03-27 05:00:15,328 basehttp 16336 24488 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:15,331 basehttp 16336 24488 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:15,331 basehttp 16336 5288 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:15,334 basehttp 16336 5288 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:15,773 basehttp 16336 20608 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:00:18,423 basehttp 16336 20608 "GET /admin/FoGApp/ HTTP/1.1" 200 2943
+INFO 2021-03-27 05:00:19,732 basehttp 16336 20608 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 4441
+INFO 2021-03-27 05:00:20,239 basehttp 16336 20608 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:00:24,787 basehttp 16336 20608 "POST /admin/FoGApp/green_business/ HTTP/1.1" 200 3416
+INFO 2021-03-27 05:00:24,802 basehttp 16336 20608 "GET /static/admin/js/cancel.js HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:25,736 basehttp 16336 20608 "POST /admin/FoGApp/green_business/ HTTP/1.1" 302 0
+INFO 2021-03-27 05:00:26,247 basehttp 16336 20608 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 3366
+INFO 2021-03-27 05:00:26,766 basehttp 16336 20608 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:00:26,777 basehttp 16336 20608 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2021-03-27 05:00:32,900 basehttp 16336 22676 "POST /fog/create_business/%0A HTTP/1.1" 200 14
+INFO 2021-03-27 05:01:01,916 basehttp 16336 22676 "POST /fog/create_business/%0A HTTP/1.1" 200 61
+INFO 2021-03-27 05:02:41,427 autoreload 16336 21016 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 05:02:41,887 autoreload 6412 21808 Watching for file changes with StatReloader
+INFO 2021-03-27 05:04:13,959 autoreload 6412 21808 S:\FriendofGreen\FoG\FoGApp\views\process.py changed, reloading.
+INFO 2021-03-27 05:04:14,555 autoreload 7684 12148 Watching for file changes with StatReloader
+INFO 2021-03-27 05:04:31,235 basehttp 7684 24604 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 4441
+INFO 2021-03-27 05:04:31,261 basehttp 7684 24604 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:04:34,537 basehttp 7684 24604 "POST /admin/FoGApp/green_business/ HTTP/1.1" 200 3416
+INFO 2021-03-27 05:04:35,666 basehttp 7684 24604 "POST /admin/FoGApp/green_business/ HTTP/1.1" 302 0
+INFO 2021-03-27 05:04:36,196 basehttp 7684 24604 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 3366
+INFO 2021-03-27 05:04:36,702 basehttp 7684 24604 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:04:41,321 basehttp 7684 4124 "POST /fog/create_business/%0A HTTP/1.1" 200 14
+INFO 2021-03-27 05:07:14,416 basehttp 7684 4124 "POST /fog/create_business/%0A HTTP/1.1" 200 61
+INFO 2021-03-27 05:07:18,920 basehttp 7684 24604 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 4441
+INFO 2021-03-27 05:07:19,410 basehttp 7684 24604 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:07:23,321 basehttp 7684 24604 "POST /admin/FoGApp/green_business/ HTTP/1.1" 200 3416
+INFO 2021-03-27 05:07:24,351 basehttp 7684 24604 "POST /admin/FoGApp/green_business/ HTTP/1.1" 302 0
+INFO 2021-03-27 05:07:24,865 basehttp 7684 24604 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 3366
+INFO 2021-03-27 05:07:25,378 basehttp 7684 24604 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:08:34,934 autoreload 7684 12148 S:\FriendofGreen\FoG\FoGApp\views\views.py changed, reloading.
+INFO 2021-03-27 05:08:35,402 autoreload 12400 15528 Watching for file changes with StatReloader
+INFO 2021-03-27 05:08:36,673 basehttp 12400 16736 "GET /admin/FoGApp/green_business/ HTTP/1.1" 200 3235
+INFO 2021-03-27 05:08:37,027 basehttp 12400 16736 "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+INFO 2021-03-27 05:08:42,898 basehttp 12400 5780 "POST /fog/create_business/%0A HTTP/1.1" 200 519
+INFO 2021-03-27 13:28:26,608 autoreload 10640 13320 Watching for file changes with StatReloader
+INFO 2021-03-27 13:30:21,260 basehttp 10640 7704 "GET /fog/owners/%0A HTTP/1.1" 200 351
+INFO 2021-03-27 13:30:53,264 autoreload 10640 13320 S:\FriendofGreen\FoG\FoGApp\urls.py changed, reloading.
+INFO 2021-03-27 13:30:53,805 autoreload 5448 18528 Watching for file changes with StatReloader
+INFO 2021-03-27 13:30:54,601 basehttp 5448 5632 "GET /fog/owners/%0A HTTP/1.1" 200 351
+INFO 2021-03-27 13:32:23,645 autoreload 5448 18528 S:\FriendofGreen\FoG\FoGApp\urls.py changed, reloading.
+INFO 2021-03-27 13:32:24,219 autoreload 9148 20232 Watching for file changes with StatReloader
+ERROR 2021-03-27 13:32:27,704 log 9148 12236 Internal Server Error: /fog/business/
+Traceback (most recent call last):
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "S:\ACC\FriendofGreen\lib\site-packages\rest_framework\viewsets.py", line 117, in view
+    handler = getattr(self, action)
+AttributeError: 'Green_OwnerVeiwSet' object has no attribute 'list_business'
+ERROR 2021-03-27 13:32:27,707 basehttp 9148 12236 "GET /fog/business/%0A HTTP/1.1" 500 74301
+ERROR 2021-03-27 13:32:46,322 log 9148 12236 Internal Server Error: /fog/business/
+Traceback (most recent call last):
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "S:\ACC\FriendofGreen\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "S:\ACC\FriendofGreen\lib\site-packages\rest_framework\viewsets.py", line 117, in view
+    handler = getattr(self, action)
+AttributeError: 'Green_OwnerVeiwSet' object has no attribute 'list_business'
+ERROR 2021-03-27 13:32:46,323 basehttp 9148 12236 "GET /fog/business/%0A HTTP/1.1" 500 74301
+INFO 2021-03-27 13:32:46,438 autoreload 9148 20232 S:\FriendofGreen\FoG\FoGApp\urls.py changed, reloading.
+INFO 2021-03-27 13:32:47,320 autoreload 12220 8184 Watching for file changes with StatReloader
+INFO 2021-03-27 13:34:03,913 basehttp 12220 12628 "GET /fog/business/%0A HTTP/1.1" 200 439
+INFO 2021-03-27 09:34:46,686 autoreload 10950 140574388172608 Watching for file changes with StatReloader
+INFO 2021-03-27 09:35:24,662 autoreload 10967 140376486463296 Watching for file changes with StatReloader
+INFO 2021-03-27 09:45:31,619 autoreload 11240 140020226692928 Watching for file changes with StatReloader
+INFO 2021-03-27 09:55:04,959 autoreload 11353 140467132622656 Watching for file changes with StatReloader
+INFO 2021-03-27 09:55:48,615 autoreload 11376 140544845596480 Watching for file changes with StatReloader
+WARNING 2021-03-27 11:00:13,273 log 18648 140411574265600 Not Found: /boaform/admin/formLogin
+WARNING 2021-03-27 11:31:28,647 log 18648 140411574265600 Not Found: /.env
+WARNING 2021-03-27 11:31:29,141 log 18648 140411649873664 Not Found: /vendor/phpunit/phpunit/phpunit.xml
+WARNING 2021-03-27 12:02:48,402 log 18648 140411574265600 Not Found: /config/getuser
+WARNING 2021-03-27 12:22:04,980 log 18648 140411649873664 Not Found: /_ignition/execute-solution
+WARNING 2021-03-27 12:22:05,596 log 18648 140411574265600 Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+WARNING 2021-03-27 12:22:06,206 log 18648 140411649873664 Not Found: /login
+WARNING 2021-03-27 12:22:06,370 log 18648 140411574265600 Not Found: /jenkins/login
+WARNING 2021-03-27 12:22:06,614 log 18648 140411649873664 Not Found: /manager/html
+WARNING 2021-03-27 12:22:07,145 log 18648 140411574265600 Not Found: /wp-login.php
+WARNING 2021-03-27 12:22:07,556 log 18648 140411649873664 Not Found: /
+WARNING 2021-03-27 12:30:55,482 log 18648 140411574265600 Not Found: /
+WARNING 2021-03-27 13:02:16,223 log 18648 140411649873664 Not Found: /
+WARNING 2021-03-27 13:06:34,804 log 18648 140411574265600 Not Found: /GponForm/diag_Form
+WARNING 2021-03-27 13:25:25,788 log 18648 140411649873664 Not Found: /config/getuser
+WARNING 2021-03-27 14:01:56,257 log 18648 140411574265600 Not Found: /
+WARNING 2021-03-27 14:01:56,770 log 18648 140411649873664 Not Found: /
+WARNING 2021-03-27 14:01:57,277 log 18648 140411574265600 Not Found: /favicon.ico
+WARNING 2021-03-27 14:22:22,998 log 18648 140411649873664 Not Found: /hudson
+WARNING 2021-03-27 14:34:15,449 log 18648 140411574265600 Not Found: /
+ERROR 2021-03-27 17:50:05,274 log 2754 140601525532416 Internal Server Error: /fog/Get_Business/
+Traceback (most recent call last):
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/utils/deprecation.py", line 113, in __call__
+    response = self.process_request(request)
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/middleware/common.py", line 53, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/middleware/common.py", line 71, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/urls/base.py", line 154, in is_valid_path
+    resolve(path, urlconf)
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/urls/base.py", line 25, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/urls/resolvers.py", line 545, in resolve
+    for pattern in self.url_patterns:
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/urls/resolvers.py", line 589, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/green/friendofgreen/FoG/FoG/urls.py", line 22, in <module>
+    url(r'^fog/', include('FoGApp.urls')),
+  File "/home/green/friendofgreen/FoG/virenv/lib/python3.6/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/green/friendofgreen/FoG/FoGApp/urls.py", line 6, in <module>
+    from FoGApp.views.views import (create_Owner,create_Business,Green_BusinessVeiwSet,Green_OwnerVeiwSet,Get_Business)
+  File "/home/green/friendofgreen/FoG/FoGApp/views/views.py", line 18, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+WARNING 2021-03-27 18:15:15,345 log 3045 140207623980800 Not Found: /
+WARNING 2021-03-27 18:30:29,071 log 4935 140189201204992 Not Found: /wp-login.php
+WARNING 2021-03-27 18:33:03,711 log 4935 140189167634176 Not Found: /wp-login.php
+WARNING 2021-03-27 18:36:18,073 log 4935 140189201204992 Not Found: /
+WARNING 2021-03-27 19:41:45,591 log 4935 140189201204992 Not Found: /
+WARNING 2021-03-27 20:28:09,556 log 4935 140189167634176 Not Found: /.env
+WARNING 2021-03-27 20:28:10,280 log 4935 140189201204992 Not Found: /
+WARNING 2021-03-27 20:49:11,965 log 4935 140189167634176 Not Found: /
+WARNING 2021-03-27 20:49:12,289 log 4935 140189201204992 Not Found: /
+WARNING 2021-03-27 20:52:21,787 log 4935 140189167634176 Not Found: /config/getuser
+WARNING 2021-03-27 21:09:43,073 log 4935 140189201204992 Not Found: /
+WARNING 2021-03-27 21:16:36,772 log 4935 140189167634176 Not Found: /
+WARNING 2021-03-27 21:32:06,518 log 4935 140189192812288 Not Found: /_ignition/execute-solution
+WARNING 2021-03-27 21:32:06,974 log 4935 140189167634176 Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+WARNING 2021-03-27 21:32:07,453 log 4935 140189192812288 Not Found: /login
+WARNING 2021-03-27 21:32:07,709 log 4935 140189167634176 Not Found: /jenkins/login
+WARNING 2021-03-27 21:32:08,213 log 4935 140189192812288 Not Found: /manager/html
+WARNING 2021-03-27 21:32:08,693 log 4935 140189167634176 Not Found: /wp-login.php
+WARNING 2021-03-27 21:32:09,149 log 4935 140189192812288 Not Found: /
+WARNING 2021-03-27 21:32:09,525 log 4935 140189167634176 Not Found: /
+WARNING 2021-03-27 21:43:38,567 log 4935 140189167634176 Not Found: /
+WARNING 2021-03-27 21:45:05,868 log 4935 140189201204992 Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+WARNING 2021-03-27 21:45:05,872 log 4935 140189167634176 Not Found: /api/jsonws/invoke
+WARNING 2021-03-27 21:45:06,194 log 4935 140189192812288 Not Found: /solr/admin/info/system
+WARNING 2021-03-27 21:45:06,195 log 4935 140189167634176 Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+WARNING 2021-03-27 21:45:06,510 log 4935 140189201204992 Not Found: /index.php
+WARNING 2021-03-27 21:45:06,514 log 4935 140189167634176 Not Found: /
+WARNING 2021-03-27 21:45:06,831 log 4935 140189201204992 Not Found: /
+WARNING 2021-03-27 21:45:06,836 log 4935 140189167634176 Not Found: /wp-content/plugins/wp-file-manager/readme.txt
+WARNING 2021-03-27 21:45:07,154 log 4935 140189192812288 Not Found: /console/
+WARNING 2021-03-27 21:45:07,475 log 4935 140189167634176 Not Found: /Autodiscover/Autodiscover.xml
+WARNING 2021-03-27 21:45:07,523 log 4935 140189192812288 Not Found: /_ignition/execute-solution
+WARNING 2021-03-27 21:46:09,219 log 4935 140189192812288 Not Found: /boaform/admin/formLogin
+WARNING 2021-03-27 22:33:38,619 log 4935 140189192812288 Not Found: /
+WARNING 2021-03-27 23:03:46,933 log 4935 140189100435200 Not Found: /_ignition/execute-solution
+WARNING 2021-03-27 23:03:47,387 log 4935 140189201204992 Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+WARNING 2021-03-27 23:03:47,842 log 4935 140189100435200 Not Found: /login
+WARNING 2021-03-27 23:03:48,071 log 4935 140189201204992 Not Found: /jenkins/login
+WARNING 2021-03-27 23:03:48,526 log 4935 140189100435200 Not Found: /manager/html
+WARNING 2021-03-27 23:03:48,977 log 4935 140189201204992 Not Found: /wp-login.php
+WARNING 2021-03-27 23:03:49,430 log 4935 140189100435200 Not Found: /
+WARNING 2021-03-27 23:56:43,144 log 8526 140216675784448 Not Found: /boaform/admin/formLogin
+WARNING 2021-03-28 09:26:18,038 log 2967 140330369963776 Not Found: /boaform/admin/formLogin
+WARNING 2021-03-28 09:28:46,784 log 2967 140330369963776 Not Found: /
+WARNING 2021-03-28 09:37:56,403 log 3912 140340266292992 Not Found: /
+WARNING 2021-03-28 10:03:01,483 log 3912 140340333500160 Not Found: /
+WARNING 2021-03-28 10:19:59,289 log 3912 140340266292992 Not Found: /
+WARNING 2021-03-28 10:22:54,490 log 4869 140327864039168 Not Found: /
+WARNING 2021-03-28 10:22:54,527 log 4869 140327830435584 Not Found: /
+WARNING 2021-03-28 10:34:07,454 log 4869 140327822034688 Not Found: /
+WARNING 2021-03-28 11:42:19,259 log 4869 140327822034688 Not Found: /
+WARNING 2021-03-28 11:54:00,278 log 4869 140327822034688 Not Found: /
+WARNING 2021-03-28 11:54:00,400 log 4869 140327864039168 Not Found: /
